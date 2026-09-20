@@ -13,9 +13,9 @@
 
 ---
 
-Egresado de Ingeniería de Sistemas e Informática (UTP). He trabajado en proyectos web para clientes reales y en aplicaciones full-stack propias. Me interesa el desarrollo backend, la integración de servicios y las bases de datos.
+Construyo software de principio a fin. Desde el modelo de datos hasta el despliegue. Me interesa profundizar en backend e integración de servicios. He trabajado con clientes freelance y en proyectos propios, con Python, Java y JavaScript.
 
-He usado Python, Java y JavaScript en distintos proyectos. No me caso con una sola tecnología, elijo la que mejor le calce a cada problema.
+Elijo la tecnología según el problema, no al revés.
 
 ---
 
