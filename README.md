@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/Email-1C1C1E?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Lima%2C%20Perú-6C757D?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=JoshuaTerrones&label=Visitas%20al%20perfil&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
@@ -51,6 +52,10 @@ Actualmente abierto a **prácticas** y **roles junior** en desarrollo de softwar
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaTerrones&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JoshuaTerrones&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
 </p>
 
 <p align="center">
