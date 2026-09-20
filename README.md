@@ -1,6 +1,6 @@
 <h1 align="center">Hola, soy Joshua Terrones 👋</h1>
 
-<h3 align="center">Ingeniero de Sistemas · Full-stack Developer</h3>
+<h3 align="center">Ingeniero de Sistemas · Desarrollador de Software · Full-stack</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/[tu-linkedin]">
@@ -10,40 +10,37 @@
     <img src="https://img.shields.io/badge/Email-1C1C1E?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Lima%2C%20Perú-6C757D?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=JoshuaTerrones&label=Visitas%20al%20perfil&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-Egresado de Ingeniería de Sistemas e Informática (UTP) con experiencia práctica construyendo aplicaciones web completas. Me interesa el desarrollo full-stack, la integración de servicios y las bases de datos.
+### 🧩 ¿Qué me gusta hacer?
 
-Actualmente abierto a **prácticas** y **roles junior** en desarrollo de software.
+Me apasiona **construir soluciones de software completas**. Disfruto del reto de conectar un frontend dinámico con un backend sólido, diseñar bases de datos eficientes y desplegar aplicaciones que funcionen en el mundo real.
 
----
+Mi enfoque va más allá de escribir código: me gusta entender el **"por qué"** de un problema para diseñar la arquitectura adecuada. Tengo una base sólida en **fundamentos de ingeniería de software**, lo que me permite adaptarme rápidamente a nuevas tecnologías y stacks según lo que el proyecto necesite.
 
-<h3 align="center">🛠️ Stack</h3>
+**Mi stack principal y mis herramientas actuales:**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+*   **Backend:** Django · Node.js · Java
+*   **Frontend:** React · Next.js · TypeScript
+*   **Bases de Datos:** PostgreSQL · MySQL
+*   **Infraestructura:** Docker · Git · Vercel
+
+Siempre estoy explorando. Actualmente, mi interés se expande hacia el **análisis de datos** y la **integración de servicios en la nube**.
 
 ---
 
-<h3 align="center">📊 Estadísticas de GitHub</h3>
+### 🚀 Mi enfoque de trabajo
+
+1.  **Entender el problema:** Analizo los requerimientos y el contexto del negocio antes de escribir una sola línea de código.
+2.  **Diseñar la solución:** Pienso en la arquitectura, los modelos de datos y las APIs que darán forma al producto.
+3.  **Construir e iterar:** Desarrollo, pruebo y refino, asegurándome de que cada componente funcione de forma cohesiva.
+4.  **Desplegar y aprender:** Pongo la solución en producción, obtengo feedback y busco la mejora continua.
+
+---
+
+### 📊 Actividad y Constancia
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=JoshuaTerrones&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
@@ -54,21 +51,11 @@ Actualmente abierto a **prácticas** y **roles junior** en desarrollo de softwar
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshuaTerrones&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoshuaTerrones&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoshuaTerrones&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
 ---
 
-<h3 align="center">📫 Contacto</h3>
+### 📫 Hablemos
 
-<p align="center">
-  ¿Buscas un desarrollador junior con fundamentos sólidos y ganas de crecer? Escríbeme:
-</p>
+Estoy abierto a **prácticas** y **roles junior** donde pueda aportar mi visión integral y seguir creciendo como ingeniero. Si buscas a alguien que no solo sepa programar, sino que también entienda el panorama completo del desarrollo de software, escríbeme.
 
 <p align="center">
   <a href="mailto:terronesjoshua@icloud.com">
@@ -80,5 +67,5 @@ Actualmente abierto a **prácticas** y **roles junior** en desarrollo de softwar
 </p>
 
 <p align="center">
-  <i>"Construyo, aprendo, itero."</i>
+  <i>"No solo construyo software, diseño soluciones."</i>
 </p>
