@@ -29,7 +29,7 @@ Elijo la tecnología según el problema, no al revés.
 - **Backend:** Django · Django REST Framework · Node.js · Java Servlets
 - **Frontend:** React · Next.js · Astro · Tailwind CSS
 - **Bases de datos:** PostgreSQL · MySQL
-- **Infraestructura:** Docker · Git · Vercel · GCP (básico)
+- **Infraestructura:** Docker · Git · Vercel · GCP 
 - **Diseño:** Figma
 
 ---
