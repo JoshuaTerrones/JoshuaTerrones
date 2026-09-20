@@ -3,13 +3,12 @@
 ### Egresado de Ingeniería de Sistemas e Informática · Desarrollador de Software
 
 <p>
-  <a href="https://linkedin.com/in/[tu-linkedin]">
+  <a href="https://linkedin.com/in/joshuaterrones">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:terronesjoshua@icloud.com">
     <img src="https://img.shields.io/badge/Email-1C1C1E?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Lima%2C%20Perú-6C757D?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 ---
@@ -48,4 +47,4 @@ He usado Python, Java y JavaScript en distintos proyectos. No me caso con una so
 ## 📫 Contacto
 
 📧 **terronesjoshua@icloud.com**
-💼 [LinkedIn](https://linkedin.com/in/[tu-linkedin])
+💼 [LinkedIn](https://linkedin.com/in/joshuaterrones)
