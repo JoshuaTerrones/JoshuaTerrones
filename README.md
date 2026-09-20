@@ -26,12 +26,12 @@ He usado Python, Java y JavaScript en distintos proyectos. No me caso con una so
   <img src="https://skillicons.dev/icons?i=python,js,ts,java,django,nodejs,react,nextjs,astro,tailwind,postgres,mysql,docker,git,figma&perline=8" />
 </p>
 
-**Lenguajes:** Python · JavaScript · TypeScript · Java
-**Backend:** Django · Django REST Framework · Node.js · Java Servlets
-**Frontend:** React · Next.js · Astro · Tailwind CSS
-**Bases de datos:** PostgreSQL · MySQL
-**Infraestructura:** Docker · Git · Vercel · GCP (básico)
-**Diseño:** Figma
+- **Lenguajes:** Python · JavaScript · TypeScript · Java
+- **Backend:** Django · Django REST Framework · Node.js · Java Servlets
+- **Frontend:** React · Next.js · Astro · Tailwind CSS
+- **Bases de datos:** PostgreSQL · MySQL
+- **Infraestructura:** Docker · Git · Vercel · GCP (básico)
+- **Diseño:** Figma
 
 ---
 
