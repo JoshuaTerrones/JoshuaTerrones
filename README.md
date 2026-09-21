@@ -9,6 +9,9 @@
   <a href="mailto:terronesjoshua@icloud.com">
     <img src="https://img.shields.io/badge/Email-1C1C1E?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
+  <a href="https://hackatime.hackclub.com/">
+    <img src="https://img.shields.io/badge/Hackatime-Coding_Time-blue?style=for-the-badge&logo=clock&logoColor=white" />
+  </a>
 </p>
 
 ---
