@@ -4,13 +4,13 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/joshuaterrones">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-1C1C1E?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:terronesjoshua@icloud.com">
     <img src="https://img.shields.io/badge/Email-1C1C1E?style=for-the-badge&logo=maildotru&logoColor=white" />
   </a>
   <a href="https://josht.xyz">
-    <img src="https://img.shields.io/badge/Portafolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portafolio-1C1C1E?style=for-the-badge&logo=link&logoColor=white" />
   </a>
 </p>
 ---
