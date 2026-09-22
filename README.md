@@ -9,9 +9,6 @@
   <a href="mailto:terronesjoshua@icloud.com">
     <img src="https://img.shields.io/badge/Email-1C1C1E?style=for-the-badge&logo=apple&logoColor=white" />
   </a>
-  <a href="https://hackatime.hackclub.com/">
-    <img src="https://img.shields.io/badge/Hackatime-Coding_Time-blue?style=for-the-badge&logo=clock&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -34,6 +31,12 @@ Elijo la tecnología según el problema, no al revés.
 - **Bases de datos:** PostgreSQL · MySQL
 - **Infraestructura:** Docker · Git · Vercel · GCP 
 - **Diseño:** Figma
+
+---
+
+## 📊 Mi Actividad de Código
+
+![Mi Actividad de Código](https://github-readme-stats.hackclub.dev/api/wakatime?username=70566&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Mi+Actividad+de+Codigo&layout=compact&cache_seconds=0&langs_count=8)
 
 ---
 
