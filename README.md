@@ -33,9 +33,10 @@ Elijo la tecnología según el problema, no al revés.
 
 ## 📊 Mi Actividad de Código
 
-<p align="center">
+[<p align="center">
   <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=70566&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Mi+Actividad+de+Codigo&layout=compact&langs_count=8" />
-</p>
+</p>](https://github-readme-stats.hackclub.dev/api/wakatime?username=70566&api_domain=hackatime.hackclub.com&theme=github_dark&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+)
 
 ---
 
