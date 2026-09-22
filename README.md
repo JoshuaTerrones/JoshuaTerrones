@@ -22,7 +22,7 @@ Elijo la tecnología según el problema, no al revés.
 ## 🛠️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,ts,nextjs,tailwind" height="40" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,django,nodejs,react,nextjs,astro,tailwind,postgres,mysql,docker,git,figma&" />
 </p>
 
 - **Lenguajes:** Python · JavaScript · TypeScript · Java
